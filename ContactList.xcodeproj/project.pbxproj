@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E46D22D244F858100414C90 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E46D22C244F858100414C90 /* CollectionViewController.swift */; };
+		1E46D231245050D500414C90 /* CollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E46D230245050D500414C90 /* CollectionCell.swift */; };
 		1E4CC23F244792AE000D7690 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E4CC23E244792AE000D7690 /* AppDelegate.swift */; };
 		1E4CC241244792AE000D7690 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E4CC240244792AE000D7690 /* SceneDelegate.swift */; };
 		1E4CC243244792AE000D7690 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E4CC242244792AE000D7690 /* DetailViewController.swift */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1E46D22C244F858100414C90 /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
+		1E46D230245050D500414C90 /* CollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionCell.swift; sourceTree = "<group>"; };
 		1E4CC23B244792AE000D7690 /* ContactList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E4CC23E244792AE000D7690 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1E4CC240244792AE000D7690 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +69,8 @@
 				1E4CC23E244792AE000D7690 /* AppDelegate.swift */,
 				1E4CC240244792AE000D7690 /* SceneDelegate.swift */,
 				1E4CC242244792AE000D7690 /* DetailViewController.swift */,
+				1E46D22C244F858100414C90 /* CollectionViewController.swift */,
+				1E46D230245050D500414C90 /* CollectionCell.swift */,
 				1E7627ED2448579700EED9B9 /* PersonsListViewController.swift */,
 				1E4CC252244792E0000D7690 /* Person.swift */,
 				1E4CC244244792AE000D7690 /* Main.storyboard */,
@@ -150,7 +156,9 @@
 				1E4CC243244792AE000D7690 /* DetailViewController.swift in Sources */,
 				1E7627EE2448579700EED9B9 /* PersonsListViewController.swift in Sources */,
 				1E4CC23F244792AE000D7690 /* AppDelegate.swift in Sources */,
+				1E46D231245050D500414C90 /* CollectionCell.swift in Sources */,
 				1E4CC253244792E0000D7690 /* Person.swift in Sources */,
+				1E46D22D244F858100414C90 /* CollectionViewController.swift in Sources */,
 				1E4CC241244792AE000D7690 /* SceneDelegate.swift in Sources */,
 				1E7627F0244884C900EED9B9 /* ContactListViewController.swift in Sources */,
 			);
